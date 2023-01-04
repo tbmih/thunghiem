@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+khoi 1 tao phien ban 1
+
+=======
+khoi tao phien ban 1
+>>>>>>> parent of a950936 (binh update)
